@@ -1,3 +1,5 @@
 # Chess-set-
 it is a 3d Printable Chess set
-<img width="1205" height="625" alt="Screenshot 2026-10-13 234851" src="https://github.com/user-attachments/assets/ad4dd97f-7758-46a2-894d-b7bcc250d852" />
+
+
+<img width="634" height="390" alt="Screenshot 2026-10-13 234955" src="https://github.com/user-attachments/assets/2305d3c4-5061-4fcc-9275-922af0ba9308" />
